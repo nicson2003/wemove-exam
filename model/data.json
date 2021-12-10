@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "key": ["hello", "hi" ],
+      "message": "Welcome to StationFive." 
+    },
+    {
+      "key": ["goodbye", "bye"],
+      "message": "Thank you, see you around." 
+    },
+    {
+      "key": ["no context"],
+      "message": "Sorry, I don't understand." 
+    }
+  ]
+}
